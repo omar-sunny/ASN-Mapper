@@ -1,0 +1,10 @@
+figlet
+lolcat
+whois
+masscan
+nmap
+
+subfinder
+amass
+httpx
+parallel
